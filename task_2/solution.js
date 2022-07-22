@@ -16,6 +16,12 @@ function calcShipping(sum, min, shipping) {
     // если productsSum больше 0 и меньше freeShippingMinSum,
     // то shippingSum присвоить значение shippingPrice
 
+    // новый комментарий №1
+    // новый комментарий №2
+    // новый комментарий №3
+    // новый комментарий №4
+    // новый комментарий №5
+
     // Конец решения задания №2.1.
 
     return shippingSum;
